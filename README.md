@@ -1,9 +1,9 @@
 # CST8915 Lab 1: Algonquin Pet Store on Azure VM
 
-**Student Name**: Hye Ran Yoo
-**Student ID**: 041145212
-**Course**: CST8915 Full-stack Cloud-native Development
-**Semester**: Fall 2026
+- **Student Name**: Hye Ran Yoo
+- **Student ID**: 041145212
+- **Course**: CST8915 Full-stack Cloud-native Development
+- **Semester**: Fall 2026
 
 ---
 
